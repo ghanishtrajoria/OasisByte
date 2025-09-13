@@ -8,7 +8,7 @@ A clean and responsive clone of the ExpressVPN landing page, built using only HT
 
 ![Demo GIF](./images/demo.gif)   
 *You can also view the live site here:*  
-🔗 [Live Site](https://ghanishtrajoria.github.io/Landing-page/)
+🔗 [Live Site](file:///Users/ghanishtrajoria/Desktop/landing_page/index2.html)
 <!-- Replace with your actual GitHub Pages link -->
 
 ---
