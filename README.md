@@ -7,7 +7,7 @@ A clean and responsive clone of the ExpressVPN landing page, built using only HT
 ## 📸 Demo
 
 ![Demo GIF](./images/demo2.gif)
-*You can also view the live site here:*  
+
 
 
 ## 🚀 Features
