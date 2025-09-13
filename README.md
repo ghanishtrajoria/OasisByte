@@ -6,7 +6,7 @@ A clean and responsive clone of the ExpressVPN landing page, built using only HT
 
 ## 📸 Demo
 
-![Demo GIF](./images/ExpressVPN -video.mp4)   
+![Demo GIF][https://github.com/ghanishtrajoria/OasisByte/blob/main/images/ExpressVPN%20-video.mp4]   
 *You can also view the live site here:*  
 🔗 [Live Site](https://ghanishtrajoria.github.io/OasisByte/)
 <!-- Replace with your actual GitHub Pages link -->
